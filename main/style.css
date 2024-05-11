@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(69, 196, 176);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.box{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(1, 32, 48);
+    padding:40px;
+    border-radius: 15px;
+}
+
+a{
+    background-color: rgb(19, 103, 138);
+    text-decoration:none;
+    color:rgb(255, 255, 255) ;
+    border-radius: 10px;
+    padding:13px;
+}
+
+a:hover{
+    background-color:rgb(24, 125, 172) ;
+}
+
+button:hover{
+    background-color:rgb(24, 125, 172) ;
+}

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastro</title>
+    <title>Logar</title>
     <link rel="stylesheet" href="index.css">
     <link rel="shortcut icon" href="icone/Icon.png" type="image/x-icon">
 </head>
@@ -14,7 +14,8 @@
         <br><br>
         <input type="password" placeholder="Senha" id="caixa">
         <br><br>
-        <button>Logar</button>
+        <button>Entrar</button>
     </div>
+    <a href="home.php"><button id="home">Inicio</button></a>
 </body>
 </html>
